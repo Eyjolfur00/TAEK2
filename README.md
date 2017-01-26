@@ -34,3 +34,10 @@
 #### 4.skref = búa til áhætlun um hvernig þú ætlar að laga vandamálið
 #### 5.skref = Laga það sem var að
 #### 6.skref = láta eiganda tölvunar vita hvað var að og skila henni 
+
+### 7. Hver er munurinn á opinn (e. open ended) og lokaðri (closed ended) spurningu?
+Nefnið dæmi um báðar gerðir af spurningum.
+
+#### svar :
+#### opin spurning er eitthvað sem allir meiga svara í. dæmi : Hver verður forsetinn ? __________
+#### lokuð spurning er eitthvað sem bara sérstakir aðilar meiga svara. dæmi : hver á að fá þennan pening ? ________       
