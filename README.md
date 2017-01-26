@@ -24,3 +24,13 @@
 ### 5. Hvað þarf að hafa í huga við val á spennugjöfum?
 
 #### svar : Hvort að spennugjöfinn passa fyrir alla íhluti og að það passar inni tölvu kassan
+
+### 6. Hver eru hin 6 skref við bilanagreiningu og viðgerðir?
+
+#### svar :
+#### 1.skref = finna hvað vandamálið er
+#### 2.skref = fá hugmynd um að finna út afhverju þetta gerðist
+#### 3.skref = prófa hugmyndina hvort hún virki
+#### 4.skref = búa til áhætlun um hvernig þú ætlar að laga vandamálið
+#### 5.skref = Laga það sem var að
+#### 6.skref = láta eiganda tölvunar vita hvað var að og skila henni 
