@@ -15,3 +15,7 @@
 ### 3. Hvað er fyrirbyggjandi viðhald?
 
 #### svar : Það er að fara reglulega yfir tölvuna og allt sem er í henni til að gá hvort allt sé good .
+
+### 4. Fyrir hvað stendur skammstöfunin ESD, hvað er það og hvaða leiðir höfum við til að verjast því þegar unnið er með tölvubúnað?
+
+#### svar : ESD stendur fyrir "Electro-Static Discharge" og það er skyndileg raforka á milli rafhlaðinna hluta af völdum snertingu
