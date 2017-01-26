@@ -19,3 +19,8 @@
 ### 4. Fyrir hvað stendur skammstöfunin ESD, hvað er það og hvaða leiðir höfum við til að verjast því þegar unnið er með tölvubúnað?
 
 #### svar : ESD stendur fyrir "Electro-Static Discharge" og það er skyndileg raforka á milli rafhlaðinna hluta af völdum snertingu
+
+
+### 5. Hvað þarf að hafa í huga við val á spennugjöfum?
+
+#### svar : Hvort að spennugjöfinn passa fyrir alla íhluti og að það passar inni tölvu kassan
