@@ -11,3 +11,7 @@
 
 #### svar : Rom stendur fyrir "Read-Only Memory" og það er byggit inni 
 ####tölvuminni sem inniheldur gögn sem er yfirleitt er aðeins hægt að lesa en ekki skrifa
+
+### 3. Hvað er fyrirbyggjandi viðhald?
+
+#### svar : Það er að fara reglulega yfir tölvuna og allt sem er í henni til að gá hvort allt sé good .
