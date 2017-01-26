@@ -53,3 +53,8 @@ Nefnið dæmi um báðar gerðir af spurningum.
 #### svar : 
 #### Jaðartæki eru margir hlutir tengt tölvum eins og 
 #### Hátalarar , Heyrnartól , Klikkikort , Lyklaborð , Mús og Músamotta , Prentari , o.fl.
+
+### 9. Nefndu þrjú dæmi um inntakstæki.
+
+#### svar :
+#### inntakstæki er tildæmis Lyklaborð , Mús , Myndavél og margt fleirra
